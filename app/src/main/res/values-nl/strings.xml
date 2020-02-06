@@ -16,7 +16,7 @@
     <string name="stop_share">Stop delen</string>
     <string name="stop">Stop</string>
     <string name="download">Downloaden</string>
-    <string name="downloading">Aan het downloaden</string>
+    <string name="downloading">Bezig het downloaden</string>
     <plurals name="info_downloading">
         <item quantity="one">Download %1$d van %2$d bestand</item>
         <item quantity="other">Download %1$d van %2$d bestanden</item>
@@ -52,5 +52,5 @@
     <string name="upload_another_file">Nog een bestand uploaden</string>
     <string name="stop_receiving">Stop ontvangen</string>
     <string name="upload_from_your_browser">Uploaden vanaf je browser</string>
-    <string name="info_success_web_upload">Bestand is ontvangen. Klik om te openen</string>
+    <string name="info_success_web_upload">Bestand is ontvangen. Tap om te openen</string>
 </resources>
